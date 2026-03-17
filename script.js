@@ -13,7 +13,7 @@ function quad(a,b,c){
     }else if (D<0) return "Корней нет"
 }
 
-function prog(a,b,c){
+function prog(){
     var a=Number(document.getElementById('a').value);
     var b=Number(document.getElementById('b').value);
     var c=Number(document.getElementById('c').value);
